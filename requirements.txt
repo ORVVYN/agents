@@ -1,0 +1,13 @@
+python-telegram-bot==20.7
+google-search-results==2.4.2
+aiosmtplib==2.0.2
+apscheduler==3.10.4
+reportlab==4.2.0
+SQLAlchemy==2.0.30
+pydantic==2.7.2
+langchain==0.1.17
+langsmith==0.1.29
+openai==1.30.1
+python-dotenv==1.0.1
+greenlet
+aiosqlite
